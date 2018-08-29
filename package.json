@@ -1,0 +1,29 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "0.18.0",
+    "ramda": "0.25.0",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-grid-path": "1.2.0",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "recompose": "0.29.0",
+    "redux": "4.0.0",
+    "redux-actions": "2.6.1",
+    "redux-devtools-extension": "2.13.5",
+    "redux-saga": "0.16.0",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

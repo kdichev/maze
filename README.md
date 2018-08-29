@@ -1,2 +1,0 @@
-# maze
-Created with CodeSandbox
